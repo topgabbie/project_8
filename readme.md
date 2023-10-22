@@ -1,7 +1,5 @@
 # LOAD BALANCER SOLUTION WITH APACHE
 
-
-
 ## STEP
 
 1. Create an ubuntu server 20.04 and open TCP port 80
